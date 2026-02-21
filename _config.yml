@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your Name
-email: your.email@institution.edu
+title: Danielle M. Barna
+email: daba@nve.no
 description: >- # this means to ignore newlines until "baseurl:"
   Personal academic website of [Your Name], [Your Title] at [Your Institution].
   Research interests include [Topic 1], [Topic 2], and [Topic 3].
 twitter_username: # your twitter username (optional)
-github_username: # your github username (optional)
+github_username: danibarna
 minimal_mistakes_skin: default
 search: true
 
@@ -57,10 +57,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Your Full Name"
+  name   : "Danielle M. Barna"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Assistant Professor of Computer Science at University Name"
-  location: "City, Country"
+  bio    : "Researcher at The Norwegian Water and Energy Directorate"
+  location: "Oslo, Norway"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
