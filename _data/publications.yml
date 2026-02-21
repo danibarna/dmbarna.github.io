@@ -1,0 +1,31 @@
+# Publications data file
+# Add your publications here to have them automatically displayed on the publications page
+# Example format:
+
+- title: "Example Paper Title: A Comprehensive Study"
+  authors: "John Doe, Jane Smith, Your Name"
+  venue: "Proceedings of the Conference on Example Topics (EXAMPLE '24)"
+  year: 2024
+  pdf: "https://example.com/paper.pdf"
+  doi: "10.1234/example.5678"
+  code: "https://github.com/username/project"
+  slides: "https://example.com/slides.pdf"
+
+- title: "Another Example Paper on Important Topics"
+  authors: "Your Name, Co-author Name"
+  venue: "Journal of Example Research, Vol. 10, No. 2"
+  year: 2024
+  pdf: "https://example.com/paper2.pdf"
+  doi: "10.1234/example.9012"
+
+# Fields:
+# - title: (required) Full paper title
+# - authors: (required) All authors, list yourself as "Your Name" 
+# - venue: (required) Conference or journal name
+# - year: (required) Publication year
+# - pdf: (optional) Link to PDF
+# - doi: (optional) DOI identifier
+# - code: (optional) Link to code repository
+# - slides: (optional) Link to presentation slides
+# - video: (optional) Link to talk video
+# - poster: (optional) Link to poster PDF
