@@ -110,7 +110,7 @@ defaults:
       layout: single
       author_profile: true
       header:
-        image: /assests/images/header-banner.jpg
+        image: /assets/images/header-banner.jpg
 
 category_archive:
   type: liquid
