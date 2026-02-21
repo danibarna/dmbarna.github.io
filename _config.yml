@@ -109,6 +109,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      header:
+        image: /assests/images/header-banner.jpg
 
 category_archive:
   type: liquid
