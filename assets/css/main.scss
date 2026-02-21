@@ -1,1 +1,51 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Custom styles to override theme defaults */
+
+/* Make profile picture bigger and circular */
+.author__avatar img {
+  max-width: 200px !important;  /* Increase from default ~110px */
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 50% !important;  /* Keep it circular */
+}
+
+/* Alternative: Make it square/rounded square instead of oval */
+/* Uncomment the following if you prefer a rounded square */
+/*
+.author__avatar img {
+  max-width: 200px !important;
+  width: 200px !important;
+  height: 200px !important;
+  border-radius: 10px !important;
+}
+*/
+
+/* Ensure the avatar container accommodates larger image */
+.author__avatar {
+  display: table-cell;
+  vertical-align: top;
+  width: 200px !important;
+  height: 200px !important;
+}
+
+/* Add spacing for larger profile picture on mobile */
+@media (max-width: 768px) {
+  .author__avatar img {
+    max-width: 150px !important;
+    width: 150px !important;
+    height: 150px !important;
+  }
+  
+  .author__avatar {
+    width: 150px !important;
+    height: 150px !important;
+  }
+}
