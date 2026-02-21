@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Research interests include [Topic 1], [Topic 2], and [Topic 3].
 twitter_username: # your twitter username (optional)
 github_username: danibarna
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
