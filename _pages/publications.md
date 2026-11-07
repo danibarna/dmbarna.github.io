@@ -3,7 +3,8 @@ permalink: /publications/
 title: "Publications"
 ---
 
-For a complete list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=homV8wQAAAAJ).
+## Under Review
+
 
 ## Selected Publications
 
