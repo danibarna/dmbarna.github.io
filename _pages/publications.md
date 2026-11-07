@@ -3,11 +3,11 @@ permalink: /publications/
 title: "Publications"
 ---
 
-For a complete list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=YOUR_ID).
+For a complete list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=homV8wQAAAAJ).
 
 ## Selected Publications
 
-### 2024
+### 2026
 
 {% if site.data.publications %}
 {% assign pubs_2024 = site.data.publications | where: "year", 2024 %}
@@ -22,10 +22,10 @@ For a complete list of publications, see my [Google Scholar profile](https://sch
 {% endfor %}
 {% else %}
 
-**[Paper Title]**  
-[Author1], [Author2], **Your Name**, [Author4]  
-*[Conference/Journal Name]*, 2024  
-[[PDF](#)] [[DOI](#)]
+**The ability of LSTM to model snowmelt versus rainfall generated floods**  
+Bakke, S.J., **Barna, D.M.**, Engeland, K., Kolberg, S. A., Nordeide, S.  
+*Hydrology and Earth System Sciences*, 2026  
+[[[DOI](#)](https://doi.org/10.5194/hess-30-6207-2026)]
 
 **[Paper Title]**  
 **Your Name**, [Coauthor]  
