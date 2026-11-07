@@ -5,6 +5,10 @@ title: "Publications"
 
 ## Under Review
 
+**Paper title**  
+Your Name, Coauthor Name  
+*Journal or Conference Name*  
+[PDF](link-to-preprint) <!-- optional -->
 
 ## Selected Publications
 
@@ -22,11 +26,6 @@ title: "Publications"
 {% if pub.slides %}[[Slides]({{ pub.slides }})]{% endif %}
 {% endfor %}
 {% else %}
-
-**The ability of LSTM to model snowmelt versus rainfall generated floods**  
-Bakke, S.J., **Barna, D.M.**, Engeland, K., Kolberg, S. A., Nordeide, S.  
-*Hydrology and Earth System Sciences*, 2026  
-[[[DOI](#)](https://doi.org/10.5194/hess-30-6207-2026)]
 
 **[Paper Title]**  
 **Your Name**, [Coauthor]  
