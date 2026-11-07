@@ -9,12 +9,10 @@
   doi: "https://doi.org/10.5194/hess-30-6207-2026"
   data: "https://datasetcatalog.nlm.nih.gov/dataset?q=0003355355"
 
-- title: "Another Example Paper on Important Topics"
-  authors: "Your Name, Co-author Name"
-  venue: "Journal of Example Research, Vol. 10, No. 2"
-  year: 2024
-  pdf: "https://example.com/paper2.pdf"
-  doi: "10.1234/example.9012"
+- title: "Regional index flood estimation at multiple durations with generalized additive models"
+  authors: "Danielle M. Barna, Kolbjørn Engeland, Thomas Kneib, Thordis Thorarinsdottir, Chong-Yu Xu"
+  venue: "Environmetrics"
+  year: 2026
 
 # Fields:
 # - title: (required) Full paper title
