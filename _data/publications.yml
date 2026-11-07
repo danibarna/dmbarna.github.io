@@ -3,13 +3,11 @@
 # Example format:
 
 - title: "The ability of LSTM to model snowmelt versus rainfall generated floods."
-  authors: "Sigrid J. Bakke, Danielle M. Barna"
-  venue: "Proceedings of the Conference on Example Topics (EXAMPLE '24)"
-  year: 2024
-  pdf: "https://example.com/paper.pdf"
-  doi: "10.1234/example.5678"
-  code: "https://github.com/username/project"
-  slides: "https://example.com/slides.pdf"
+  authors: "Sigrid J. Bakke, Danielle M. Barna, Kolbjørn Engeland, Sjur Anders Kolberg, Sunniva Nordeide"
+  venue: "Hydrology and Earth System Sciences"
+  year: 2026
+  doi: "https://doi.org/10.5194/hess-30-6207-2026"
+  data: "https://datasetcatalog.nlm.nih.gov/dataset?q=0003355355"
 
 - title: "Another Example Paper on Important Topics"
   authors: "Your Name, Co-author Name"
