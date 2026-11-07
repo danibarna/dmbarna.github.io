@@ -1,12 +1,11 @@
 ---
 permalink: /publications/
-title: "Publications"
 ---
 
 ## Under Review
 
 **Regional index flood estimation at multiple durations with generalized additive models**  
-Danielle M. Barna, Kolbjørn Engeland, Thomas Kneib, Thordis Thorarinsdottir, Chong-Yu Xu
+**Danielle M. Barna**, Kolbjørn Engeland, Thomas Kneib, Thordis Thorarinsdottir, Chong-Yu Xu
 *Environmetrics*  
 [PDF](link-to-preprint) <!-- optional -->
 
@@ -28,9 +27,9 @@ Danielle M. Barna, Kolbjørn Engeland, Thomas Kneib, Thordis Thorarinsdottir, Ch
 {% else %}
 
 **The ability of LSTM to model snowmelt versus rainfall generated floods**  
-**Your Name**, [Coauthor]  
-*[Conference/Journal Name]*, 2024  
-[[PDF](#)] [[Code](#)]
+Sigrid J. Bakke, **Danielle M. Barna**, Kolbjørn Engeland, Sjur Anders Kolberg, Sunniva Nordeide
+*Hydrology and Earth System Sciences*, 2026  
+[[NVE](https://hess.copernicus.org/articles/30/6207/2026/)] [[Code](#)]
 
 {% endif %}
 
