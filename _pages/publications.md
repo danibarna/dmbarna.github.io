@@ -5,9 +5,9 @@ title: "Publications"
 
 ## Under Review
 
-**Paper title**  
-Your Name, Coauthor Name  
-*Journal or Conference Name*  
+**Regional index flood estimation at multiple durations with generalized additive models**  
+Danielle M. Barna, Kolbjørn Engeland, Thomas Kneib, Thordis Thorarinsdottir, Chong-Yu Xu
+*Environmetrics*  
 [PDF](link-to-preprint) <!-- optional -->
 
 ## Selected Publications
@@ -27,7 +27,7 @@ Your Name, Coauthor Name
 {% endfor %}
 {% else %}
 
-**[Paper Title]**  
+**The ability of LSTM to model snowmelt versus rainfall generated floods**  
 **Your Name**, [Coauthor]  
 *[Conference/Journal Name]*, 2024  
 [[PDF](#)] [[Code](#)]
